@@ -1,9 +1,9 @@
 friend = {
-    'chris': '6451',
-    'holly': '8941'
+    'chris': '111',
+    'holly': '2223'
 }
 
-friend['sherry'] = '5335'
+friend['sherry'] = '23234'
 print(friend['sherry'], end='\n')
 
 for key in friend:
